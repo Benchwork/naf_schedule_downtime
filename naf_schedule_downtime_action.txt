@@ -1,0 +1,1 @@
+/var/www/html/nagiosreactor/application/libraries/scripts/naf_schedule_downtime.sh --NagiosServer %nagiosserver%  --NagiosUser %nagiosuser%  --NagiosPassword %nagiospassword% --NrdpToken %nrdptoken% --Target %target% --Service %service% --Duration %duration% --Comment %comment%
